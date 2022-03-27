@@ -4,7 +4,7 @@ import sys
 import threading
 HEADER_LENGTH = 4096
 
-IP_ADD = "192.168.0.196"
+IP_ADD = "<IP ADDRESS HERE>"
 PORT_NUM = 1234
 
 accountPermission = "nurse"
