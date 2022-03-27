@@ -8,7 +8,7 @@ from mysql.connector import Error
 
 HEADER_LENGTH = 4096
 connection = mysql.connector.connect(
-    host='194.59.164.158', database='u645071659_makerspace', user='u645071659_hyperx66', password='s9740499b')
+    host='194.59.164.158', database='', user='', password='')
 IP_ADD = "192.168.0.196"
 PORT_NUM = 1234
 check = 0
